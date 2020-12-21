@@ -1,0 +1,6 @@
+framework module Pods_IntervalChallenge_IntervalChallengeUITests {
+  umbrella header "Pods-IntervalChallenge-IntervalChallengeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
